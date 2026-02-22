@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# python version
+.python-version
+
+# environment files
+.env
+uv.lock
+reference
+chroma_db
+legalRAG
+7be5eb54-7429-444b-afe3-a1ec79bdeeb2
