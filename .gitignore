@@ -21,3 +21,5 @@ legalRAG
 7be5eb54-7429-444b-afe3-a1ec79bdeeb2
 chroma_db_legal_bot_part1
 *.json
+crewai_chatbot.ipynb
+Final_notebook.ipynb
