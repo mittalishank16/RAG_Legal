@@ -1,26 +1,24 @@
-filelock
-huggingface-hub
-matplotlib
-nltk
-numpy
-openai
-packaging
-pinecone
-pydantic
-PyMuPDF
-PyPDF2
-PyYAML
-python-docx
-python-dotenv
-requests
-streamlit
-tokenizers
+# Core Frameworks
+crewai==0.28.8
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+
+# Vector Database & Embeddings
+chromadb
+langchain-chroma
+langchain-huggingface
+sentence-transformers
 torch
+
+# Data Processing & Extraction
+pypdf
+pymupdf
+langchain-experimental
+pandas
+numpy
+
+# Utilities
+python-dotenv
 tqdm
-typing_extensions
-urllib3
-wordcloud
-gradio
-groq
-ollama
-transformers
